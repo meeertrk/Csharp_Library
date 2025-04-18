@@ -1,9 +1,8 @@
-## What is the purpose of the .txt files?  
+## Welcome to my C# library.
 
-The .txt files indicate the creation order of the codes inside the "Week" folders.
+Here are some codes that I used while learning C# language. Good research...
 
 -----
 
-## .txt Dosyaları Ne Amaçla Eklendi?
-
-.txt dosyaları "Hafta" klasörlerinin içinde bulunan kodların oluşturulma sıralarını göstermektedir.
+## Benim C# kütüphaneme hoşgeldin.
+Burada C# dilini öğrenirken uyguladığım bazi kodlar bulunmaktadır. İyi araştırmalar...
