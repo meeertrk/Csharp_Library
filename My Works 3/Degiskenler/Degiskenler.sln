@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{876402B0-BAFC-421A-82ED-3D3F87B20DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form2adsoyad", "form2adsoyad\form2adsoyad.csproj", "{EFB1B3A8-5669-4494-9D60-EA9691F7C303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876402B0-BAFC-421A-82ED-3D3F87B20DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876402B0-BAFC-421A-82ED-3D3F87B20DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876402B0-BAFC-421A-82ED-3D3F87B20DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876402B0-BAFC-421A-82ED-3D3F87B20DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB1B3A8-5669-4494-9D60-EA9691F7C303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB1B3A8-5669-4494-9D60-EA9691F7C303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB1B3A8-5669-4494-9D60-EA9691F7C303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB1B3A8-5669-4494-9D60-EA9691F7C303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4900B1-545E-49F1-964A-A3C80A328ACB}
+	EndGlobalSection
+EndGlobal
