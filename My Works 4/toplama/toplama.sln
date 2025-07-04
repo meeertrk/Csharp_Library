@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toplama", "toplama\toplama.csproj", "{8F0F634F-DC6B-416E-B86D-AF13B5B42408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adgir", "adgir\adgir.csproj", "{ACA61EC0-5B39-48D3-B2DF-1D5EE5A54960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carpma", "carpma\carpma.csproj", "{F76941C2-8421-4D04-805D-544DF5A92DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0F634F-DC6B-416E-B86D-AF13B5B42408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0F634F-DC6B-416E-B86D-AF13B5B42408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0F634F-DC6B-416E-B86D-AF13B5B42408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0F634F-DC6B-416E-B86D-AF13B5B42408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA61EC0-5B39-48D3-B2DF-1D5EE5A54960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA61EC0-5B39-48D3-B2DF-1D5EE5A54960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA61EC0-5B39-48D3-B2DF-1D5EE5A54960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA61EC0-5B39-48D3-B2DF-1D5EE5A54960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76941C2-8421-4D04-805D-544DF5A92DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76941C2-8421-4D04-805D-544DF5A92DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76941C2-8421-4D04-805D-544DF5A92DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76941C2-8421-4D04-805D-544DF5A92DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7791BF2-0576-498F-A745-F4B8E21DED64}
+	EndGlobalSection
+EndGlobal
